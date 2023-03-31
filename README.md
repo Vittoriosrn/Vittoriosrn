@@ -5,7 +5,7 @@
 <br>
 <br>
 
-### Olá, eu sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no IFBA. Estudo desenvolvimento front-end e procuro sempre aprimorar minhas habilidades e conhecimentos.  
+#### Olá, eu sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no IFBA. Estudo desenvolvimento front-end e procuro sempre aprimorar minhas habilidades e conhecimentos.  
 <br>
 <br>
 
@@ -17,7 +17,7 @@
 <br>
 <br>
 
-### Tecnologias que estou estudando📜
+#### Tecnologias que estou estudando📜
 <hr>
 <div style="display: inline-block;"><br>
     <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -27,7 +27,7 @@
 <br>
 <br>
 
-### Tecnologias📜
+#### Tecnologias📜
 <hr>
 <div style="display: inline-block;"><br>
     <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -39,7 +39,7 @@
 <br>
 <br>
 
-### Conecte-se Comigo 💱
+#### Conecte-se Comigo 💱
 <hr>
 <br>
 
