@@ -1,11 +1,11 @@
 
 
-## < Web Developer Vittorio Kevin / 
+## < Web Developer - Vittorio Kevin />
 <hr>
 <br>
 <br>
 
-#### Olá, eu sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no IFBA. Estudo desenvolvimento front-end e procuro sempre aprimorar minhas habilidades e conhecimentos.  
+#### Olá, eu sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no IFBA. 👨🏿‍💻 <br> Estudo desenvolvimento front-end e procuro sempre aprimorar minhas habilidades e conhecimentos. 📚 
 <br>
 <br>
 
