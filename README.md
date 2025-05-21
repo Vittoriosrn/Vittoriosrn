@@ -7,8 +7,7 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkarda)](https://github.com/rahulkarda/readme-components)
-
+[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulkarda)](https://github.com/anuraghazra/readme-components)
 
 
 ![Vittoriosrn](https://github-readme-stats.vercel.app/api?username=Vittoriosrn&show_icons=true&theme=synthwave)
