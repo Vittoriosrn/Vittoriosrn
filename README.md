@@ -5,14 +5,6 @@
 
 #### Olá, eu sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no IFBA. 👨🏿‍💻 <br> Estudo desenvolvimento front-end e procuro sempre aprimorar minhas habilidades e conhecimentos. 📚 
 <br>
-<br>
-
-[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vittoriosrn)](https://github.com/anuraghazra/readme-components)
-
-
-![Vittoriosrn](https://github-readme-stats.vercel.app/api?username=Vittoriosrn&show_icons=true&theme=synthwave)
-<br>
-<br>
 
 #### Tecnologias📜
 <hr>
@@ -24,7 +16,6 @@
     <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)"/>
 
 </div>
-<br>
 <br>
 
 #### Conecte-se Comigo 💱
