@@ -1,7 +1,7 @@
 
 
 ## < Olá👋 />
-#### Front-end Developer | Next.js, Angular, React Native | Criação de produtos digitais robustos, responsivos e otimizados. 
+#### Front-end Developer | Next.js, Angular, React Native<br>Criação de produtos digitais robustos, responsivos e otimizados. 
 #### Tecnologias📜
 <hr>
 <div style="display: inline-block;">
