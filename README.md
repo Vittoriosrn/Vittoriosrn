@@ -4,7 +4,6 @@
 <br>
 
 #### Olá, eu sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no IFBA. 👨🏿‍💻 <br> Estudo desenvolvimento front-end e procuro sempre aprimorar minhas habilidades e conhecimentos. 📚 
-<br>
 
 #### Tecnologias📜
 <hr>
