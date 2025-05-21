@@ -7,7 +7,7 @@
 <br>
 <br>
 
-[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulkarda)](https://github.com/anuraghazra/readme-components)
+[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vittoriosrn)](https://github.com/anuraghazra/readme-components)
 
 
 ![Vittoriosrn](https://github-readme-stats.vercel.app/api?username=Vittoriosrn&show_icons=true&theme=synthwave)
