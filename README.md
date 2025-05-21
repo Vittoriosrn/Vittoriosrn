@@ -1,7 +1,7 @@
 
 
-## < Mobile Developer / Web Developer / UI/UX Designer  - Vittorio Kevin />
-#### Olá, eu sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no IFBA. 👨🏿‍💻 <br> Estudo desenvolvimento front-end e procuro sempre aprimorar minhas habilidades e conhecimentos. 📚 
+## < Olá👋 />
+#### Front-end Developer | Next.js, Angular, React Native | Criação de produtos digitais robustos, responsivos e otimizados. 
 #### Tecnologias📜
 <hr>
 <div style="display: inline-block;">
