@@ -1,6 +1,6 @@
 
 
-## < Web Developer / UI/UX Designer  - Vittorio Kevin />
+## < Mobile Developer / Web Developer / UI/UX Designer  - Vittorio Kevin />
 <br>
 
 #### Olá, eu sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no IFBA. 👨🏿‍💻 <br> Estudo desenvolvimento front-end e procuro sempre aprimorar minhas habilidades e conhecimentos. 📚 
